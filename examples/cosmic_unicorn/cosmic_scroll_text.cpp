@@ -11,7 +11,7 @@ using namespace pimoroni;
 PicoGraphics_PenRGB888 graphics(32, 32, nullptr);
 CosmicUnicorn cosmic_unicorn;
 
-std::string message = "Pirate. Monkey. Robot. Ninja.";
+std::string message = "0123456789 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 // HSV Conversion expects float inputs in the range of 0.00-1.00 for each channel
 // Outputs are rgb in the range 0-255 for each channel
