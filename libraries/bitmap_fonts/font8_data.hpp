@@ -2,7 +2,7 @@
 
 #include "bitmap_fonts.hpp"
 
-const bitmap::font_t font6 {
+const bitmap::font_t font8 {
   .height = 6,
   .max_width = 5,
   .widths = {
