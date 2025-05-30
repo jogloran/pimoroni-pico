@@ -44,6 +44,8 @@ namespace pimoroni {
       set_font(&font8);
     } else if (name == "bitmap14_outline") {
       set_font(&font14_outline);
+    } else if (name == "kanji") {
+      set_font(&kanji);
     } else {
       // check that font exists and assign it
       if(hershey::has_font(name)) {

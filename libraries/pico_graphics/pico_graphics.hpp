@@ -14,6 +14,7 @@
 #include "libraries/bitmap_fonts/font6_data.hpp"
 #include "libraries/bitmap_fonts/font8_data.hpp"
 #include "libraries/bitmap_fonts/font14_outline_data.hpp"
+#include "libraries/bitmap_fonts/kanji.hpp"
 
 #include "common/pimoroni_common.hpp"
 
